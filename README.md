@@ -1,3 +1,1 @@
 # Analysis-and-Prediction-on-Tmdb5000
-1. Introduction
-A commercial success movie not only entertains the audience, but also enables film companies to gain tremendous profit. A lot of factors such as good directors, experienced actors are considerable for creating good movies. However, famous directors and actors can always bring an expected box-office income but cannot guarantee a highly rated Imdb score. The problem is what kind of movie will be more successful than others? Can we predict whether a movie will succeed before it is released? In this project, we analyze different factors related to profit and Imdb score, and apply random forest classifier to operate a binary classification aiming at distinguishing nice from bad movies.
